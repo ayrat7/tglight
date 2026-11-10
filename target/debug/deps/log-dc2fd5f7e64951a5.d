@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/tglight/target/debug/deps/log-dc2fd5f7e64951a5.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/data/data/com.termux/files/home/tglight/target/debug/deps/liblog-dc2fd5f7e64951a5.rlib: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/data/data/com.termux/files/home/tglight/target/debug/deps/liblog-dc2fd5f7e64951a5.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs:

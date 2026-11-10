@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/tglight/target/debug/deps/litemap-886dd858c0cf7f6d.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/map.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/slice_impl.rs
+
+/data/data/com.termux/files/home/tglight/target/debug/deps/liblitemap-886dd858c0cf7f6d.rlib: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/map.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/slice_impl.rs
+
+/data/data/com.termux/files/home/tglight/target/debug/deps/liblitemap-886dd858c0cf7f6d.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/map.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/mod.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/slice_impl.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/map.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/mod.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.3/src/store/slice_impl.rs:
